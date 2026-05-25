@@ -26,3 +26,9 @@ A practice repo for learning Git and GitHub.
 - [x] Cloned it locally
 - [ ] Made my first edit
 - [ ] Pushed my first commit
+
+Onuawuchi Innocent Akujobi
+
+Uchenna
+
+Adanna
